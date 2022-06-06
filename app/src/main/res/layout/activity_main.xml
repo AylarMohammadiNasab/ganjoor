@@ -3,6 +3,7 @@
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
     android:layout_width="match_parent"
+
     android:layout_height="match_parent"
     android:background="@drawable/pap"
     tools:context=".MainActivity">
@@ -26,7 +27,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="100dp"
         android:backgroundTint="#55FFFFFF"
-        
+
         android:fontFamily="@font/vazir_bold"
         android:text="فال حافظ"
         android:textColor="#000000"
